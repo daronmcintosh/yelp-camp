@@ -1,0 +1,5 @@
+YelpCamp:
+  ☐ fix bug with comments
+  ☐ flash messages inconsistent
+  ☐ allow admin to edit/delete comments
+  ☐ fix pagination
